@@ -5,15 +5,12 @@ name:
   display: 
   given: Jeremías
   family: Morán-Vargas
-  pronunciation: 
   pronouns: he/him
 status:
   icon: 
-role: Director of Cloud Infrastructure
+role: Ms(c) Student at UFRO
 bio: >
-  I am currently Director of Cloud Infrastructure at GenCoin where I am leading
-  teams on edge computing, deep sea data center architecture, and hivemind
-  optimization.
+  Tratando de correr mi página
 affiliations:
   - name: GenCoin
     url: https://www.example.com/
