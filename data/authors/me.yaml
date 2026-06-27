@@ -2,17 +2,15 @@ schema: hugoblox/author/v1
 slug: JEREEEEEEEEEE
 is_owner: true
 name:
-  display: JEREEEEEEEEEMORAN
-  given: Jeremías
-  family: Morán-Vargas
+  display: Jeremías Morán Vargas
   pronouns: he/him
-status:
+status: 
   icon: 
 role: Ms(c) Student at UFRO
 bio: >
-  Tratando de correr mi página
+  Undergraduate Civil Engineering Student
 affiliations:
-  - name: GenCoin
+  - name: Universidad de la Frontera
     url: https://www.example.com/
 links:
   - icon: at-symbol
