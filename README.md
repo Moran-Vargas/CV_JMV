@@ -1,6 +1,5 @@
-# [Holaaaaaa](https://github.com/HugoBlox/hugo-theme-resume)
+# Jeremías Morán Vargas´
 
-[![Screenshot](.github/preview.png)](https://hugoblox.com/templates/resume?utm_source=github&utm_medium=readme&utm_content=preview)
 
 <!-- TODO: Replace with a short demo video showing Hugo Chat generating a resume page -->
 <!-- https://github.com/user-attachments/assets/REPLACE_ME -->
